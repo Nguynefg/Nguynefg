@@ -22,9 +22,9 @@
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| [Website](https://github.com/Nguyefg/Website) | Website đặt & cho thuê du thuyền, gồm trang giới thiệu, đặt thuê thuyền, quản lý lịch đặt, khách hàng và trang quản trị. | Java Servlet, JSP, MySQL, HTML, CSS, Bootstrap |
-| [CTDLGTNC](https://github.com/Nguyefg/CTDLGTNC) | Bài tập và dự án nhỏ về cấu trúc dữ liệu & giải thuật nâng cao. | HTML |
-| [Pippo Multipurpose Discord Bot](https://github.com/Nguyefg/Pippo-Multipurpose-Discord-Bot) | Discord bot đa năng cho moderation, tiện ích và quản lý cộng đồng. | Python |
+| [Website](https://github.com/Nguynefg/Website) | Website đặt & cho thuê du thuyền, gồm trang giới thiệu, đặt thuê thuyền, quản lý lịch đặt, khách hàng và trang quản trị. | Java Servlet, JSP, MySQL, HTML, CSS, Bootstrap |
+| [CTDLGTNC](https://github.com/Nguynefg/CTDLGTNC) | Bài tập và dự án nhỏ về cấu trúc dữ liệu & giải thuật nâng cao. | HTML |
+| [Pippo Multipurpose Discord Bot](https://github.com/Nguynefg/Pippo-Multipurpose-Discord-Bot) | Discord bot đa năng cho moderation, tiện ích và quản lý cộng đồng. | Python |
 
 ## Tech stack
 
