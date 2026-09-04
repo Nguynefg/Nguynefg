@@ -2,7 +2,7 @@
 
 # Hi, I'm Sea Dev 👋
 
-**Student developer from Vietnam — building websites, bots, and small things that solve real problems.**
+**Computer Science student from Vietnam — building websites, bots, and small things that solve real problems.**
 
 [![Portfolio](https://img.shields.io/badge/Website-zyo.lol-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zyo.lol/_45zc)
 [![GitHub](https://img.shields.io/badge/GitHub-Nguynefg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nguynefg)
@@ -14,7 +14,7 @@
 ## About me
 
 - 🌏 Based in **Vietnam**
-- 🎓 A student who enjoys turning ideas into practical projects
+- 🎓 Computer Science student, building practical software from ideas
 - 🤖 Interested in web development, automation, and Discord bots
 - ✉️ Reach me at **phnnguyen2005@gmail.com**
 
