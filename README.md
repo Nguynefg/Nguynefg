@@ -30,7 +30,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,py,mysql,git,github,vscode&perline=9" alt="HTML, CSS, Bootstrap, Java, Python, MySQL, Git, GitHub and VS Code" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,py,mysql,git,github,vscode&perline=9" alt="HTML, CSS, Bootstrap, Java, Python, MySQL, Git, GitHub, VS Studio and VS Code" />
   </a>
 </p>
 
