@@ -74,15 +74,6 @@
 
 ---
 
-GitHub stats
-
-<p>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nguynefg&theme=github_dark" alt="Sea Dev's GitHub statistics" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nguynefg&theme=github_dark" alt="Sea Dev's most used languages" />
-</p>
-
----
-
 <div align="center">
 
 _Thanks for visiting — feel free to explore my projects._
