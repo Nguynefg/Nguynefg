@@ -16,7 +16,7 @@
 - 🌏 Based in **Vietnam**
 - 🎓 Computer Science student, building practical software from ideas
 - 🤖 Interested in web development, backend systems, automation, Discord bots, and building useful software
-- ✉️ Reach me at **nguynefg2404@gmail.com**
+- ✉️ Reach me at **phnnguyen2005@gmail.com**
 
 ## Featured projects
 
